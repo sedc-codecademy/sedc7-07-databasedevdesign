@@ -3,5 +3,5 @@ Source code repository for SEDC Code Academy 7.0 7th subject 'Database developme
 
 ## Contact
 
-Dejan Blazheki: <dejan.pblazheski@seavus.com>
-Jane Mechkaroski: <jane.mechkaroski@seavus.com>
+Dejan Blazheki: <dejan.pblazheski@seavus.com> <br/>
+Jane Mechkaroski: <jane.mechkaroski@seavus.com> <br/>
